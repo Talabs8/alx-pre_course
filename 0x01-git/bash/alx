@@ -1,6 +1,2 @@
 #!/bin/bash 
-<<<<<<< HEAD
- echo "ALX"
-=======
-echo "ALX" 
->>>>>>> update_script
+echo "ALX"
